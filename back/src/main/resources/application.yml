@@ -14,5 +14,5 @@ spring:
 
 baidu:
   api:
-    access-token: xxx
-    sentiment-url: xxx
+    access-token: 24.d341fb11b0cb89b5d8c79d96df51bd48.2592000.1750822957.282335-119024185
+    sentiment-url: https://aip.baidubce.com/rpc/2.0/nlp/v1/sentiment_classify?charset=UTF-8&access_token=
